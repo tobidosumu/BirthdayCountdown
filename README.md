@@ -1,6 +1,6 @@
-#Birthday Countdown Generator
+# Birthday Countdown Generator
 
-Instructions:  
+## Instructions:  
 1. Write a JS fn to generate a letter at random
 
 2. Use case:  
@@ -8,5 +8,5 @@ Instructions:
    tell them how many days left to their birthday.  
 3. * What are uuids  
    * Why uuids  
-   * How uuids  
+   * How uuids    
    * When uuids  
