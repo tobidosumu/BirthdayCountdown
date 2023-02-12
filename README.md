@@ -8,5 +8,5 @@
    tell them how many days left to their birthday.  
 3. * What are uuids  
    * Why uuids  
-   * How uuids    
-   * When uuids  
+   * How uuids  
+   * When uuids    
