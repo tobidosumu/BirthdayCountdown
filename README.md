@@ -9,7 +9,7 @@
    tell them how many days left to their birthday.  
    
 3. * What are UUIDs?   
-4. 
+
       Answer:  
       UUID stands for Universally Unique Identifier, which is a   
       string of characters that is guaranteed to be unique across   
