@@ -8,7 +8,7 @@
    When users input their birthday, the program should   
    tell them how many days left to their birthday.  
    
-3. * *What are UUIDs?*   
+3. * * What are UUIDs? *   
 
       Answer:  
       UUID stands for Universally Unique Identifier, which is a   
