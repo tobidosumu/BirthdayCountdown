@@ -8,7 +8,7 @@
    When users input their birthday, the program should   
    tell them how many days left to their birthday.  
    
-3. * What are UUIDs?   
+3. * ### What are UUIDs?   
 
       Answer:  
       UUID stands for Universally Unique Identifier, which is a   
@@ -22,5 +22,17 @@
       records, files, or anything else that needs to be uniquely   
       identified in a decentralized system.  
       
-   * How UUIDs  
-   * When UUIDs    
+   * How UUIDs?  
+   
+      Answer:  
+      UUIDs can be generated using libraries or built-in functions in   
+      programming languages such as JavaScript, Python, etc. They usually   
+      follow a specific format, such as the standard format defined by   
+      the ISO/IEC 9834-8:2005.  
+      
+   * When UUIDs?  
+   
+      Answer:
+      UUIDs are used whenever a unique identifier is required for an entity,  
+      such as when generating session IDs for web sessions, or when assigning  
+      unique IDs to records in a database.
