@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="./generateRandomLetter.js"></script>
+        <title>Random Letter Generator</title>
+    </head>
+
+    <body>
+
+        <style>
+
+            body {
+                display: flex; 
+                height: 100vh;
+                align-items: center; 
+                flex-direction: column;
+                justify-content: center;
+            }
+
+            h1 {
+                font-size: 7rem; 
+                font-family: sans-serif;
+            }
+
+            button {
+                border: none;
+                color: white;
+                cursor: pointer;
+                font-size: 40px;
+                padding: 20px 40px; 
+                border-radius: 10px;
+                background-color: green;
+            }
+            button:hover {
+                background-color: darkgreen;
+            }
+            
+        </style>
+        
+        <!-- Output -->
+        <h1 id="output">
+            Click Button
+        </h1>
+
+        <!-- Button -->
+        <button onclick="updateHeader()">
+            Generate Random Letter
+        </button>
+    
+    </body>
+
+</html>
