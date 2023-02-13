@@ -15,6 +15,12 @@
       string of characters that is guaranteed to be unique across   
       all systems and devices.  
       
-   * Why UUIDs  
+   * Why UUIDs?    
+  
+      Answer:  
+      UUIDs are used to uniquely identify entities such as database   
+      records, files, or anything else that needs to be uniquely   
+      identified in a decentralized system.  
+      
    * How UUIDs  
    * When UUIDs    
