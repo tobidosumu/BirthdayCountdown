@@ -2,11 +2,17 @@
 
 ## Instructions:  
 1. Write a JavaScript function to generate a letter at random.
-
+   
+   Answer:
+   https://github.com/tobidosumu/birthdayCountdown/tree/main/randomLetterGenerator
+   
 2. Write a JavaScript function to generate a response.  
    Use case:  
    When users input their birthday, the program should   
    tell them how many days left to their birthday.  
+   
+   Answer:
+   https://github.com/tobidosumu/birthdayCountdown/tree/main/birthdayCountdown
    
 3. * What are UUIDs?   
 
